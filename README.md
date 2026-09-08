@@ -15,19 +15,6 @@
 
 ---
 
-## 👥 Team Members
-
-| # | Name |
-|---|------|
-| 1 | 👤 P. Navya Sri |
-| 2 | 👤 P. Hashika |
-| 3 | 👤 P. Satyanarayana |
-| 4 | 👤 P. Vasu |
-| 5 | 👤 P. Hariti |
-| 6 | 👤 P. Himabindu |
-
----
-
 ## 💡 About the Project
 
 **RecruitX** is a student-focused job information platform that brings together job opportunities from top companies into one clean, easy-to-use interface. Instead of hunting across multiple websites, students can visit RecruitX to find, search, and explore job listings — all in one place.
