@@ -2,10 +2,6 @@
 
 > **One platform. Every opportunity. Built for students.**
 
-🌐 **Live Demo:** [https://recruit-x1.vercel.app/](https://recruit-x1.vercel.app/)
-
----
-
 ## 📋 Project Details
 
 | 🏫 Course | Full Stack Development Lab |
