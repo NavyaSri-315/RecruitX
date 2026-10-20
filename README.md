@@ -1,14 +1,6 @@
 # 🎓 RecruitX — Student Job Information Platform
 
 > **One platform. Every opportunity. Built for students.**
-
-## 📋 Project Details
-
-| 🏫 Course | Full Stack Development Lab |
-|-----------|---------------------------|
-| 👩‍🏫 Faculty | Sirisha Ma'am |
-| 🌐 Live Link | [recruit-x1.vercel.app](https://recruit-x1.vercel.app/) |
-
 ---
 
 ## 💡 About the Project
